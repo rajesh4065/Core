@@ -1,0 +1,8 @@
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Common\obj\Debug\netcoreapp3.1\Demo.Portal.Common.AssemblyInfoInputs.cache
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Common\obj\Debug\netcoreapp3.1\Demo.Portal.Common.AssemblyInfo.cs
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Common\obj\Debug\netcoreapp3.1\Demo.Portal.Common.csproj.CoreCompileInputs.cache
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Common\bin\Debug\netcoreapp3.1\Demo.Portal.Common.deps.json
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Common\bin\Debug\netcoreapp3.1\Demo.Portal.Common.dll
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Common\bin\Debug\netcoreapp3.1\Demo.Portal.Common.pdb
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Common\obj\Debug\netcoreapp3.1\Demo.Portal.Common.dll
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Common\obj\Debug\netcoreapp3.1\Demo.Portal.Common.pdb

@@ -1,0 +1,14 @@
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\obj\Debug\netcoreapp3.1\Demo.Portal.Services.AssemblyInfoInputs.cache
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\obj\Debug\netcoreapp3.1\Demo.Portal.Services.AssemblyInfo.cs
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\obj\Debug\netcoreapp3.1\Demo.Portal.Services.csproj.CoreCompileInputs.cache
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\bin\Debug\netcoreapp3.1\Demo.Portal.Services.deps.json
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\bin\Debug\netcoreapp3.1\Demo.Portal.Services.dll
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\bin\Debug\netcoreapp3.1\Demo.Portal.Services.pdb
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\bin\Debug\netcoreapp3.1\Demo.Portal.Common.dll
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\bin\Debug\netcoreapp3.1\Demo.Portal.Repositories.dll
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\bin\Debug\netcoreapp3.1\Demo.Portal.Common.pdb
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\bin\Debug\netcoreapp3.1\Demo.Portal.Repositories.pdb
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\obj\Debug\netcoreapp3.1\Demo.Portal.Services.csprojAssemblyReference.cache
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\obj\Debug\netcoreapp3.1\Demo.Portal.Services.csproj.CopyComplete
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\obj\Debug\netcoreapp3.1\Demo.Portal.Services.dll
+C:\RajeshBackup\rajeshwarp\Samples\Demo.Portal\Demo.Portal.Services\obj\Debug\netcoreapp3.1\Demo.Portal.Services.pdb

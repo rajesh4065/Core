@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GixdtIcRSoGD8Kl5cyAyMg+rzXC2tc39lhlAUvSdzi4htGZuahzw2ZstvvwLif9nNG9NAo7tqeaccBo2AUk+zQ==",
+  "success": true,
+  "projectFilePath": "C:\\RajeshBackup\\rajeshwarp\\Samples\\Demo.Portal\\Demo.Portal.Common\\Demo.Portal.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

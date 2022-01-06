@@ -1,0 +1,15 @@
+﻿@model Demo.Portal.ViewModels.AddStudentViewModel
+@{
+    ViewData["Title"] = "Add Student";
+}
+
+<h1>Add Student</h1>
+<form method="post" asp-controller="Students" asp-action="Add"  class="mt-3">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" type="text" autocomplete="off" placeholder="Enter a description" name="Name" />
+        <span class="input-validation-message" asp-validation-for="Name"></span>
+    </div>
+
+    <button class="btn btn-primary" type="submit">Submit</button>
+</form>

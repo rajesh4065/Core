@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "8w/MCjNjT6XU30SkN8o51e35nya+nGgLWJRstfXnAEfQbDOmLupDY0W3BO3RkcwhKhvuyNHSIKqGxvb/y0+7pA==",
+  "success": true,
+  "projectFilePath": "C:\\RajeshBackup\\rajeshwarp\\Samples\\Demo.Portal\\Demo.Portal.Repositories\\Demo.Portal.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.8\\microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.logging\\3.1.8\\microsoft.extensions.logging.3.1.8.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\rajesh.aelem.WARP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
